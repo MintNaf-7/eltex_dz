@@ -1,6 +1,5 @@
 Для компиляции модуля едра "Hello World!" необходимо ввести в консоль
 следующее: 
-
 ~$ make
 ~$ sudo insmod hello.ko
 ~$ dmesg | tail -1
